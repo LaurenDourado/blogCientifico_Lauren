@@ -43,18 +43,21 @@ O site possui as seguintes páginas principais:
 
 ## 🖼 Capturas de Tela
 
+### Home
 ![image](https://github.com/user-attachments/assets/99bc6bc4-5aee-41e9-879c-f44e546a460f)
+
+### Sobre
 ![image](https://github.com/user-attachments/assets/2db11d96-ff3c-4716-92f5-28f9ea641d4b)
 ![image](https://github.com/user-attachments/assets/0fc2bc7e-5470-4434-9c69-ca52b546668d)
 ![image](https://github.com/user-attachments/assets/5274555c-25db-41de-9ce6-7206cc28f10b)
 ![image](https://github.com/user-attachments/assets/5cb3a35f-f3b0-4a7a-80a9-ce09366779e3)
+
+### Contato
 ![image](https://github.com/user-attachments/assets/3f3dc4dd-088c-40be-b08a-36cf62215522)
+
+### Página adicional (artigo)
 ![image](https://github.com/user-attachments/assets/4b397726-bcb0-4c29-a63d-cd0cc44c77cc)
-
-**
-
-
-
+![image](https://github.com/user-attachments/assets/5ad975c8-b0b3-41fa-81b9-b0874fb514b1)
 
 
 ## 📚 Tecnologias Utilizadas
